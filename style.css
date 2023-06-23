@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.image1 {
+    height: 35px;
+}
+
+.text-dec1 {
+    color: #323f4b !important;
+    font-weight: 500;
+}
+
+.bg-container1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.button1 {
+    background-color: #1a2137;
+    border-width: 0px;
+    padding: 10px;
+    width: 110px;
+    border-radius: 5px;
+}
+
+.main-heading2 {
+    color: #1f2933;
+    font-weight: 700;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.image2 {
+    width: 80px;
+    margin-bottom: 10px;
+}
+
+.heading2 {
+    color: #1f2933;
+    font-size: 25px;
+}
+
+.paragraph2 {
+    color: #7b8794;
+    font-weight: 400;
+}
+
+.main-heading3 {
+    color: #1f2933;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.bg-container3 {
+    background-color: #f9fbfe;
+    background-size: cover;
+    height: 90vh;
+}
+
+.image3 {
+    height: 300px;
+    width: 250px;
+    margin-bottom: 10px;
+}
+
+.paragraph3 {
+    color: #323f4b;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.image4 {
+    width: 70%;
+    margin-bottom: 10px;
+}
+
+.main-heading4 {
+    color: #1f2933;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.paragraph4 {
+    color: #7b8794;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+.button4 {
+    background-color: #1a2137;
+    color: #ffffff;
+    border-width: 0px;
+    width: 120px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.bg-container5 {
+    background-color: #222b36;
+    margin-top: 40px;
+}
+
+.main-heading5 {
+    color: #ffffff;
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.image5 {
+    width: 80%;
+}
+
+.button5 {
+    background-color: transparent;
+    color: #ffffff;
+    font-family: "Roboto";
+    padding: 8px;
+    border-width: 1px;
+    border-color: #ffffff;
+    border-radius: 5px;
+}
+
+.main-heading6 {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.image6 {
+    width: 100%;
+}
+
+.card-container6 {
+    background-color: #ffffff;
+}
+
+.paragraph6 {
+    color: #959ead;
+    font-weight: 500;
+}
+
+.card-description6 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.links6 {
+    color: #1754a1;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.button6 {
+    background-color: #1754a1;
+    border-width: 0px;
+    color: #ffffff;
+    padding: 10px;
+    width: 130px;
+    border-radius: 5px;
+}
+
+.main-heading7 {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.image-container7 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png');
+    background-size: cover;
+    width: 100%;
+    color: #ffffff;
+    font-family: "Roboto";
+    height: 600px;
+}
+
+.paragraph7 {
+    font-size: 18px;
+}
+
+.image-container-27 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png');
+    background-size: cover;
+    width: 100%;
+    color: #ffffff;
+    font-family: "Roboto";
+    height: 600px;
+}
+
+.button-27 {
+    width: 120px;
+    border-width: 0px;
+    background-color: #1754a1;
+    color: #ffffff;
+    font-family: "Roboto";
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.healthy-food-section {
+    background-color: #f9fbfe;
+  }
+  .healthy-food-section-img {
+    width: 270px;
+  }
+  .healthy-food-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .healthy-food-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .delivery-and-payment-section {
+    background-color: white;
+  }
+  .delivery-and-payment-section-img {
+    width: 270px;
+  }
+  .delivery-and-payment-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+  }
+
+  .custom-button {
+    color: white;
+    background-color: #1754a1;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+  }
+
+  .margin{
+    margin-top: 25px;
+  }
+
+  .margin1{
+    margin-top: 40px;
+    
+  }
+ 
